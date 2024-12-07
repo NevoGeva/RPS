@@ -1,1 +1,1 @@
-# RPS
+### In this learning project i will show you how to play the game ROCK PAPER SCISSORS in JS, HTML.
